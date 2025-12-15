@@ -6,7 +6,7 @@
 
 ### 📝 About Me
 
-![GitHub Snake Contribution](https://github.com/AresDown/aresdawn/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Contribution](https://github.com/AresDown/AresDown/raw/output/github-contribution-grid-snake.svg)
 
 [![GitHub Metrics](./github-metrics.svg)](https://github.com/AresDown?tab=repositories&type=source)
 
